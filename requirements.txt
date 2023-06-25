@@ -1,0 +1,15 @@
+Flask~=2.3.2
+numpy~=1.23.5
+requests~=2.31.0
+tensorflow~=2.12.0
+tensorflow-hub==0.12.0
+Flask-Cors==3.0.10
+Pillow~=9.5.0
+opencv-python-headless~=4.7.0.72
+torch~=2.0.1
+torchvision~=0.15.2
+ultralytics~=8.0.120
+openvino~=2023.0.0
+openvino-dev~=2023.0.0
+openvino-telemetry~=2022.3.0
+imgsim~=0.1.2
